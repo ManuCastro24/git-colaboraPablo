@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Boletin5Ejercicio1 {
 
-	
+	//Este ejercicio muestra correctamente el numero de veces que queria que se imprimiera mi mensaje 
 	public static void main(String[] args) {
 		
 		var scanner = new Scanner(System.in);
